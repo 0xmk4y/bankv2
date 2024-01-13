@@ -17,8 +17,8 @@ if(!isset($_SESSION["username"])){
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="theme-color" content="#000000">
-    <title>Finapp</title>
-    <meta name="description" content="Finapp HTML Mobile Template">
+    <title>CapitalOne</title>
+    <meta name="description" content="CapitalOne HTML Mobile Template">
     <meta name="keywords"
         content="bootstrap, wallet, banking, fintech mobile template, cordova, phonegap, mobile, html, responsive" />
     <link rel="icon" type="image/png" href="assets/img/icon/favicon.ico" sizes="32x32">
@@ -204,7 +204,7 @@ if(!isset($_SESSION["username"])){
         <div class="listview-title">Authentication</div>
         <ul class="listview image-listview inset mb-2">
             <li>
-                <a href="app-login.php" class="item">
+                <a href="logout.php" class="item">
                     <div class="icon-box bg-danger">
                         <ion-icon name="cube-outline"></ion-icon>
                     </div>

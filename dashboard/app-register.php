@@ -17,8 +17,8 @@ if(!isset($_SESSION["username"])){
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="theme-color" content="#000000">
-    <title>Finapp</title>
-    <meta name="description" content="Finapp HTML Mobile Template">
+    <title>CapitalOne</title>
+    <meta name="description" content="CapitalOne HTML Mobile Template">
     <meta name="keywords" content="bootstrap, wallet, banking, fintech mobile template, cordova, phonegap, mobile, html, responsive" />
     <link rel="icon" type="image/png" href="assets/img/icon/favicon.ico" sizes="32x32">
     <link rel="apple-touch-icon" sizes="180x180" href="assets/img/icon/capitalone1.png">
@@ -43,7 +43,7 @@ if(!isset($_SESSION["username"])){
         </div>
         <div class="pageTitle"></div>
         <div class="right">
-            <a href="app-login.php" class="headerButton">
+            <a href="logout.php" class="headerButton">
                 Login
             </a>
         </div>

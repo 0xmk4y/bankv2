@@ -105,6 +105,7 @@
                         <div class="flex flex-col mb-[20px]">
                             <label for="password">Password</label>
                             <input type="password" class="rounded" id="password" name="password">
+                            <span href=""><ion-icon id="togglePassword" name="eye-outline" class="absolute mt-[-32px] ml-[270px]"></ion-icon></span>
                             <span id="passwordError" class="text-red-500 hidden">Password is required</span>
                         </div>
                     
@@ -206,8 +207,15 @@
 
             // If all validations pass, send data to server
         });
+
+        document.getElementById('togglePassword').addEventListener('click', function () {
+        var passwordInput = document.getElementById('password');
+        passwordInput.type = passwordInput.type === 'password' ? 'text' : 'password';
+    });
     </script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.js"></script>
+     <!-- Ionicons -->
+     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>
 </html>

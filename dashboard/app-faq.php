@@ -17,8 +17,8 @@ if(!isset($_SESSION["username"])){
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="theme-color" content="#000000">
-    <title>Finapp</title>
-    <meta name="description" content="Finapp HTML Mobile Template">
+    <title>CapitalOne</title>
+    <meta name="description" content="CapitalOne HTML Mobile Template">
     <meta name="keywords" content="bootstrap, wallet, banking, fintech mobile template, cordova, phonegap, mobile, html, responsive" />
     <link rel="icon" type="image/png" href="assets/img/icon/favicon.ico" sizes="32x32">
     <link rel="apple-touch-icon" sizes="180x180" href="assets/img/icon/capitalone1.png">
@@ -72,12 +72,12 @@ if(!isset($_SESSION["username"])){
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#accordion01">
-                            What is Finapp?
+                            What is CapitalOne?
                         </button>
                     </h2>
                     <div id="accordion01" class="accordion-collapse collapse" data-bs-parent="#accordionExample1">
                         <div class="accordion-body">
-                            Finapp is HTML mobile template for mobile devices.
+                            CapitalOne is HTML mobile template for mobile devices.
                         </div>
                     </div>
                 </div>
@@ -85,12 +85,12 @@ if(!isset($_SESSION["username"])){
                     <h2 class="accordion-header">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#accordion02">
-                            Is Finapp Bootstrap 5 based?
+                            Is CapitalOne Bootstrap 5 based?
                         </button>
                     </h2>
                     <div id="accordion02" class="accordion-collapse collapse" data-bs-parent="#accordionExample1">
                         <div class="accordion-body">
-                            Yes. Finapp using Bootstrap 5 css framework.
+                            Yes. CapitalOne using Bootstrap 5 css framework.
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@ if(!isset($_SESSION["username"])){
                     </h2>
                     <div id="accordion03" class="accordion-collapse collapse" data-bs-parent="#accordionExample1">
                         <div class="accordion-body">
-                            Finapp based on HTML, CSS and Vanilla Javascript. That's all. You don't need others. Use
+                            CapitalOne based on HTML, CSS and Vanilla Javascript. That's all. You don't need others. Use
                             your web skills you already known.
                         </div>
                     </div>
@@ -117,7 +117,7 @@ if(!isset($_SESSION["username"])){
                     </h2>
                     <div id="accordion04" class="accordion-collapse collapse" data-bs-parent="#accordionExample1">
                         <div class="accordion-body">
-                            Yes, Finapp is a PWA (Progressive Web App) ready. You can add it your mobile device's
+                            Yes, CapitalOne is a PWA (Progressive Web App) ready. You can add it your mobile device's
                             Homescreen and use it like an app.
                         </div>
                     </div>
@@ -139,8 +139,8 @@ if(!isset($_SESSION["username"])){
                     <div id="accordion11" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
                             You can contact us on <a
-                                href="https://themeforest.net/item/finapp-wallet-banking-htms-mobile-template/25738217/support"
-                                target="_blank">Finapp support tab</a>.
+                                href="https://themeforest.net/item/CapitalOne-wallet-banking-htms-mobile-template/25738217/support"
+                                target="_blank">CapitalOne support tab</a>.
                         </div>
                     </div>
                 </div>
@@ -154,7 +154,7 @@ if(!isset($_SESSION["username"])){
                     <div id="accordion12" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
                         <div class="accordion-body">
                             You can buy it on <a
-                                href="https://themeforest.net/item/finapp-wallet-banking-htms-mobile-template/25738217"
+                                href="https://themeforest.net/item/CapitalOne-wallet-banking-htms-mobile-template/25738217"
                                 target="_blank">Themeforest</a>.
                         </div>
                     </div>

@@ -17,8 +17,8 @@ if(!isset($_SESSION["username"])){
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="theme-color" content="#000000">
-    <title>Finapp</title>
-    <meta name="description" content="Finapp HTML Mobile Template">
+    <title>CapitalOne</title>
+    <meta name="description" content="CapitalOne HTML Mobile Template">
     <meta name="keywords"
         content="bootstrap, wallet, banking, fintech mobile template, cordova, phonegap, mobile, html, responsive" />
     <link rel="icon" type="image/png" href="assets/img/icon/favicon.ico">
@@ -950,7 +950,7 @@ if(!isset($_SESSION["username"])){
                             </a>
                         </li>
                         <li>
-                            <a href="app-login.php" class="item">
+                            <a href="logout.php" class="item">
                                 <div class="icon-box " style="background-color: #026597;">
                                     <ion-icon name="log-out-outline"></ion-icon>
                                 </div>
@@ -986,7 +986,7 @@ if(!isset($_SESSION["username"])){
                         <div class="mb-1"><img src="assets/img/icon/capitalone1.png" alt="image" class="imaged w64 mb-2">
                         </div>
                         <div>
-                            Install <strong>Finapp</strong> on your iPhone's Home screen.
+                            Install <strong>CapitalOne</strong> on your iPhone's Home screen.
                         </div>
                         <div>
                             Tap <ion-icon name="share-outline"></ion-icon> and Add to Homescreen.
@@ -1020,7 +1020,7 @@ if(!isset($_SESSION["username"])){
                             <img src="assets/img/icon/capitalone1.png" alt="image" class="imaged w64 mb-2">
                         </div>
                         <div>
-                            Install <strong>Finapp</strong> on your Android's Home screen.
+                            Install <strong>CapitalOne</strong> on your Android's Home screen.
                         </div>
                         <div>
                             Tap <ion-icon name="ellipsis-vertical"></ion-icon> and Add to Homescreen.
